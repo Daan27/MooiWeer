@@ -1,6 +1,6 @@
 # MooiWeer
 
-Mijn allereerste programma :-)
+Mijn allereerste (zelf bedachte, zelf geschreven) programma :-)
 
 Niet perfect, want er wordt geen rekening gehouden met een typo, maar goed.
 
